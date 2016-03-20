@@ -8,4 +8,5 @@ Profiling with spark 1.6.0
 - Instance type: m3.medium
 - AWS Region: us-east-1 (Northern Virginia)
 
-##### Results are located in results/
+#### Results
+- results/
