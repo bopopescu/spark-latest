@@ -13,9 +13,9 @@ Profiling with spark 1.6.0
 ##### Terasort
 | Number of Nodes  | Workload (GB) |
 | -------------    | --------------|
-| 1 		   | 100	   |
-| 2  		   | 200  	   |
-| 4 		   | 400 	   |
+| 1 		   | 10		   |
+| 2  		   | 20  	   |
+| 4 		   | 40 	   |
 
 #### Results
 - results/
