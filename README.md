@@ -1,4 +1,6 @@
 # spark-latest
+
+[![Join the chat at https://gitter.im/spark-hadoop-profiling/spark-latest](https://badges.gitter.im/spark-hadoop-profiling/spark-latest.svg)](https://gitter.im/spark-hadoop-profiling/spark-latest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Profiling with spark 1.6.0
 
 #### Specifics
